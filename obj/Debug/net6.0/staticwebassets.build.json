@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "BSm+F3DVwvqnwRQCEpQSO8uZS5tM03ej8onbXXRnKZI=",
+  "Source": "BlogAPI",
+  "BasePath": "_content/BlogAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
