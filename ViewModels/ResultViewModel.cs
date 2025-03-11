@@ -4,7 +4,7 @@
     {
         public ResultViewModel(T data, List<string> errors)
         {
-            Data = Data;
+            Data = data;
             Errors = errors;
         }
 
