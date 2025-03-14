@@ -1,5 +1,5 @@
 using System.Security.Claims;
-using Blog.Models;
+using BlogAPI.Models;
 using Microsoft.AspNetCore.Authorization;
 
 namespace BlogAPI.Extensions;

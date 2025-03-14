@@ -1,8 +1,8 @@
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using Blog.Models;
 using BlogAPI.Extensions;
+using BlogAPI.Models;
 using Microsoft.IdentityModel.Tokens;
 
 namespace BlogAPI.Services;

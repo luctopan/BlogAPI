@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\dev\\projects\\BlogAPI\\wwwroot\\images\\c2b3e831-25f8-4986-8c37-dcf299c0a3a2.jpg",
+      "PackagePath": "staticwebassets\\images\\c2b3e831-25f8-4986-8c37-dcf299c0a3a2.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlogAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.BlogAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.BlogAPI.props",
+      "PackagePath": "build\\BlogAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.BlogAPI.props",
+      "PackagePath": "buildMultiTargeting\\BlogAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.BlogAPI.props",
+      "PackagePath": "buildTransitive\\BlogAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

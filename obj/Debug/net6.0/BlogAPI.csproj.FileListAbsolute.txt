@@ -68,3 +68,4 @@ C:\dev\projects\BlogAPI\obj\Debug\net6.0\refint\BlogAPI.dll
 C:\dev\projects\BlogAPI\obj\Debug\net6.0\BlogAPI.pdb
 C:\dev\projects\BlogAPI\obj\Debug\net6.0\BlogAPI.genruntimeconfig.cache
 C:\dev\projects\BlogAPI\obj\Debug\net6.0\ref\BlogAPI.dll
+C:\dev\projects\BlogAPI\bin\Debug\net6.0\BlogAPI.staticwebassets.runtime.json
