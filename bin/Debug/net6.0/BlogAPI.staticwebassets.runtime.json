@@ -1,1 +1,1 @@
-{"ContentRoots":["C:\\dev\\projects\\BlogAPI\\wwwroot\\"],"Root":{"Children":{"images":{"Children":{"c2b3e831-25f8-4986-8c37-dcf299c0a3a2.jpg":{"Children":null,"Asset":{"ContentRootIndex":0,"SubPath":"images/c2b3e831-25f8-4986-8c37-dcf299c0a3a2.jpg"},"Patterns":null}},"Asset":null,"Patterns":null}},"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}
+{"ContentRoots":["C:\\dev\\projects\\BlogAPI\\wwwroot\\"],"Root":{"Children":null,"Asset":null,"Patterns":[{"ContentRootIndex":0,"Pattern":"**","Depth":0}]}}

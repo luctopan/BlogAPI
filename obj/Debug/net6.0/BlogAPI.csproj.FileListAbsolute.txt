@@ -1,5 +1,6 @@
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\appsettings.json
+C:\dev\projects\BlogAPI\bin\Debug\net6.0\BlogAPI.staticwebassets.runtime.json
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\BlogAPI.staticwebassets.endpoints.json
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\BlogAPI.exe
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\BlogAPI.deps.json
@@ -68,4 +69,3 @@ C:\dev\projects\BlogAPI\obj\Debug\net6.0\refint\BlogAPI.dll
 C:\dev\projects\BlogAPI\obj\Debug\net6.0\BlogAPI.pdb
 C:\dev\projects\BlogAPI\obj\Debug\net6.0\BlogAPI.genruntimeconfig.cache
 C:\dev\projects\BlogAPI\obj\Debug\net6.0\ref\BlogAPI.dll
-C:\dev\projects\BlogAPI\bin\Debug\net6.0\BlogAPI.staticwebassets.runtime.json

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zgXt5kOwXLfZ/LiPC4Bj3/SafOZoJFPSv8+4iV2SVSU=",
+  "Hash": "eUZsVGPniedi7A2LIrrFn+QCkt3hgBDpna124HDVNiw=",
   "Source": "BlogAPI",
   "BasePath": "_content/BlogAPI",
   "Mode": "Default",
@@ -15,111 +15,6 @@
       "Pattern": "**"
     }
   ],
-  "Assets": [
-    {
-      "Identity": "C:\\dev\\projects\\BlogAPI\\wwwroot\\images\\c2b3e831-25f8-4986-8c37-dcf299c0a3a2.jpg",
-      "SourceId": "BlogAPI",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\dev\\projects\\BlogAPI\\wwwroot\\",
-      "BasePath": "_content/BlogAPI",
-      "RelativePath": "images/c2b3e831-25f8-4986-8c37-dcf299c0a3a2#[.{fingerprint}]?.jpg",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "Fingerprint": "ey22d43u6i",
-      "Integrity": "ihdAyUtd52qOu6oTfRD+EGl0ygWNj2VZxyVM9mSP4+w=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\images\\c2b3e831-25f8-4986-8c37-dcf299c0a3a2.jpg"
-    }
-  ],
-  "Endpoints": [
-    {
-      "Route": "images/c2b3e831-25f8-4986-8c37-dcf299c0a3a2.ey22d43u6i.jpg",
-      "AssetFile": "C:\\dev\\projects\\BlogAPI\\wwwroot\\images\\c2b3e831-25f8-4986-8c37-dcf299c0a3a2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "165925"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ihdAyUtd52qOu6oTfRD+EGl0ygWNj2VZxyVM9mSP4+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 02:31:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "ey22d43u6i"
-        },
-        {
-          "Name": "label",
-          "Value": "images/c2b3e831-25f8-4986-8c37-dcf299c0a3a2.jpg"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-ihdAyUtd52qOu6oTfRD+EGl0ygWNj2VZxyVM9mSP4+w="
-        }
-      ]
-    },
-    {
-      "Route": "images/c2b3e831-25f8-4986-8c37-dcf299c0a3a2.jpg",
-      "AssetFile": "C:\\dev\\projects\\BlogAPI\\wwwroot\\images\\c2b3e831-25f8-4986-8c37-dcf299c0a3a2.jpg",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "165925"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "image/jpeg"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"ihdAyUtd52qOu6oTfRD+EGl0ygWNj2VZxyVM9mSP4+w=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Fri, 14 Mar 2025 02:31:27 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=3600, must-revalidate"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-ihdAyUtd52qOu6oTfRD+EGl0ygWNj2VZxyVM9mSP4+w="
-        }
-      ]
-    }
-  ]
+  "Assets": [],
+  "Endpoints": []
 }
