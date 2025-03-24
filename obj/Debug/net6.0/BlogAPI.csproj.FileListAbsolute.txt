@@ -21,8 +21,12 @@ C:\dev\projects\BlogAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\dev\projects\BlogAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\SecureIdentity.dll
+C:\dev\projects\BlogAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\dev\projects\BlogAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\dev\projects\BlogAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\System.Drawing.Common.dll
 C:\dev\projects\BlogAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
@@ -51,6 +55,7 @@ C:\dev\projects\BlogAPI\obj\Debug\net6.0\BlogAPI.GeneratedMSBuildEditorConfig.ed
 C:\dev\projects\BlogAPI\obj\Debug\net6.0\BlogAPI.AssemblyInfoInputs.cache
 C:\dev\projects\BlogAPI\obj\Debug\net6.0\BlogAPI.AssemblyInfo.cs
 C:\dev\projects\BlogAPI\obj\Debug\net6.0\BlogAPI.csproj.CoreCompileInputs.cache
+C:\dev\projects\BlogAPI\obj\Debug\net6.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\dev\projects\BlogAPI\obj\Debug\net6.0\BlogAPI.MvcApplicationPartsAssemblyInfo.cache
 C:\dev\projects\BlogAPI\obj\Debug\net6.0\BlogAPI.sourcelink.json
 C:\dev\projects\BlogAPI\obj\Debug\net6.0\scopedcss\bundle\BlogAPI.styles.css

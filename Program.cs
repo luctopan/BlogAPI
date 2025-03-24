@@ -6,6 +6,7 @@ using BlogAPI.Data;
 using BlogAPI.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.ResponseCompression;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,9 +14,14 @@ ConfigureAuthentication(builder);
 ConfigureMvc(builder);
 ConfigureServices(builder);
 
+// Adicionar o Swagger
+builder.Services.AddEndpointsApiExplorer();
+builder.Services.AddSwaggerGen();
+
 var app = builder.Build();
 LoadConfiguration(app);
 
+app.UseHttpsRedirection();
 // sempre nesta ordem
 app.UseAuthentication();
 app.UseAuthorization();
@@ -23,6 +29,13 @@ app.UseResponseCompression();
 app.UseStaticFiles();
 // habilitar controllers
 app.MapControllers();
+
+if (app.Environment.IsDevelopment())
+{
+    app.UseSwagger();
+    app.UseSwaggerUI();
+}
+
 app.Run();
 
 void LoadConfiguration(WebApplication app)
@@ -82,7 +95,8 @@ void ConfigureMvc(WebApplicationBuilder builder)
 
 void ConfigureServices(WebApplicationBuilder builder)
 {
-    builder.Services.AddDbContext<BlogDataContext>();
+    var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+    builder.Services.AddDbContext<BlogDataContext>(options => options.UseSqlServer(connectionString));
     builder.Services.AddTransient<TokenService>(); // sempre vai criar um novo TokenService
     builder.Services.AddTransient<EmailService>();
     // builder.Services.AddScoped(); // Dura por requisição (utiliza o mesmo TokenService por requisição)
